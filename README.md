@@ -12,8 +12,8 @@ S - move DOWN
 
 D - move RIGHT
 
-You gain points by eating fruits. You can increase Point Modifier by eating a 2X Bonus. Multiple eaten bonuses stack up, but only temporaly.
-When bump into a wall or eat yourself, the game is over. You can start over by pressing "Play" button again.
+You gain points by eating fruits. You can increase Point Modifier by eating a 2X Bonus. Multiple eaten bonuses stack up, but only temporarily.
+When you bump into a wall or eat yourself, the game is over. You can start over by pressing "Play" button again.
 
 # Credits
 Music: "Into The Jungle" by Mapamusic (Pixabay)
